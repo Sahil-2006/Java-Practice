@@ -1,2 +1,2 @@
 # Java-Practice
-Just a Track Record of my clumsy practice
+Leetcode is fun in Java , Once you start solving it you become the best
