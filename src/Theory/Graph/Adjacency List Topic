@@ -1,0 +1,6 @@
+ArrayList<Edge> graph[V]
+static class Edge{
+    int src;
+    int dest;
+}
+graph[0].add(neew Edge(0,2))

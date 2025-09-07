@@ -1,0 +1,27 @@
+COMPONENTS OF GRAPHS:-
+VERTICES - basically nodes
+EDGES - Lines that connect Vertex
+Neighbors - Which all vertext can we reach
+
+TYPES OF GRAPHS:-
+Weighted
+Directed
+
+SORTING A GRAPH:-
+ADJACENCY LIST(LIST OF LIST):=
+graph size=total number of vertex
+Eg: 0-2(-3-)-1
+vertex wise[list of List]
+   src destination
+0 - {0,2}
+1 - {1,2}{1,3}
+2 - {2,0}{2,1}{2,3}
+3 - {3,1}{3,2}
+we can make of:=
+Arraylist of Arraylist
+hashmap
+array of arraylist
+
+ADJACENCY MATRIX
+EDGE LIST
+2D MATRIX(IMPLICIT GRAPH)
