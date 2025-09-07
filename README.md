@@ -1,5 +1,4 @@
-# hj-leetcode-kotlin
-
+# sh-leetcode-sahil
 Solving LeetCode is fun! This repository records my Java solution to solved problems. You can also visit me
 at [LeetCode](https://leetcode.com/u/Sahil1661/).
 
