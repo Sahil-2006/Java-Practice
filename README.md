@@ -1,5 +1,23 @@
-# Java-Practice
-Leetcode is fun in Java , Once you start solving it you become the best
-| [1791. Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/description/?envType=problem-list-v2&envId=graph)                                     | [Solution](src/leetcode/Problem1791/Solution.java), [Solution2](src/leetcode/Problem1791/Solution.java) | 2025-09-07    |
-=======
+# hj-leetcode-kotlin
 
+Solving LeetCode is fun! This repository records my Java solution to solved problems. You can also visit me
+at [LeetCode](https://leetcode.com/u/Sahil1661/).
+
+## Solutions
+
+### Hard
+
+| Problem                                                                                                                                                                   | Solution                                                                                                                                                 | Last Modified |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
+
+### Medium
+
+| Problem                                                                                                                                                                                         | Solution                                                                                                                                                 | Last Modified |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
+
+### Easy
+
+| Problem                                                                                                                                                                   | Solution                                                                                                                                                 | Last Modified |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
+| [1791. Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/description/?envType=problem-list-v2&envId=graph)                                                                                                | [Solution](src/leetcode/Problem1791/Solution.java),[Solution2](src/leetcode/Problem1791/Solution2.java)                                                                                 | 2023-04-10    |
+         
