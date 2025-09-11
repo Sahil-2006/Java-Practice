@@ -1,3 +1,4 @@
+package leetcode.Problem1733;
 class Solution {
 
     public int minimumTeachings(int n, int[][] languages, int[][] friendships) {
