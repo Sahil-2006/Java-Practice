@@ -1,3 +1,4 @@
+package leetcode.Problem2785;
 import java.util.*;
 class Solution {
     public String sortVowels(String s) {
