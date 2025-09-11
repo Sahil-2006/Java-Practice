@@ -1,3 +1,4 @@
+package leetcode.Problem2327;
 class Solution {
     public int peopleAwareOfSecret(int n, int delay, int forget) {
         int MOD = 1_000_000_007;
